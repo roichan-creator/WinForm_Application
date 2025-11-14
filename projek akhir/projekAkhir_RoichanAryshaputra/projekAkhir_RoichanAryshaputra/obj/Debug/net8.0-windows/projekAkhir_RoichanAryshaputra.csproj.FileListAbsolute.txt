@@ -1,0 +1,16 @@
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\bin\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.exe
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\bin\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.deps.json
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\bin\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.runtimeconfig.json
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\bin\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.dll
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\bin\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.pdb
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.Form1.resources
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.csproj.GenerateResource.cache
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.GeneratedMSBuildEditorConfig.editorconfig
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.AssemblyInfoInputs.cache
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.AssemblyInfo.cs
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.csproj.CoreCompileInputs.cache
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.dll
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\refint\projekAkhir_RoichanAryshaputra.dll
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.pdb
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\projekAkhir_RoichanAryshaputra.genruntimeconfig.cache
+C:\projek akhir\projekAkhir_RoichanAryshaputra\projekAkhir_RoichanAryshaputra\obj\Debug\net8.0-windows\ref\projekAkhir_RoichanAryshaputra.dll
